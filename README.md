@@ -17,7 +17,6 @@ WaveAni — это пет-проект, созданный на чистом э�
 </div>
 
 ---
-![WaveAni Demo 1](https://youtube.com/shorts/z4cFByrSySg?si=WNpnYY7Nn_uCnOxs)
+[![WaveAni Demo](https://img.youtube.com/vi/z4cFByrSySg/0.jpg)](https://youtube.com/shorts/z4cFByrSySg?si=WNpnYY7Nn_uCnOxs)
 
-![WaveAni Demo 2](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
-
+[![WaveAni Demo 2](https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
