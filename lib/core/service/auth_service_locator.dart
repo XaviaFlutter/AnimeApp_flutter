@@ -11,7 +11,7 @@ final sl = GetIt.instance;
 
 void setupAuthDependencies() {
   sl.registerLazySingleton<AuthRemoteDataSource>(
-      () => AuthRemoteDataSource('https://04d3-95-87-64-179.ngrok-free.app'));
+      () => AuthRemoteDataSource('https://6a72-95-87-69-211.ngrok-free.app'));
 
   sl.registerLazySingleton<AuthRepository>(
     () => AuthRepositoryImpl(authRemoteDataSource: sl<AuthRemoteDataSource>()),

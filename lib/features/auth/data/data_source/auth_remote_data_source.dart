@@ -8,7 +8,7 @@ class AuthRemoteDataSource {
   AuthRemoteDataSource(String baseUrl)
       : dio = Dio(
           BaseOptions(
-            baseUrl: 'https://04d3-95-87-64-179.ngrok-free.app',
+            baseUrl: 'https://6a72-95-87-69-211.ngrok-free.app',
             connectTimeout: const Duration(seconds: 5),
             receiveTimeout: const Duration(seconds: 5),
             headers: {
