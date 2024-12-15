@@ -1,16 +1,9 @@
-# anime_app
+<h1><span style="color:chocolate">WaveAni - IN-PROGRESS</span></h1>
+![Логотип проекта](assets/images/logo_anime.png)
+WaveAni — это пет-проект, созданный на чистом энтузиазме. Проект разрабатывается для улучшения навыков в Flutter и является примером для моего портфолио.
+Описание
 
-A new Flutter project.
+## Описание 
+Проект WaveAni — это начальная точка для Flutter-приложения, предназначенного для работы с аниме. Он использует данные из [Anime Offline Database](https://github.com/manami-project/anime-offline-database), предоставленные проектом Manami. Система работает на собственном локальном сервере с firebase. 
+Цель этого проекта — обучение/повторение навыков в создании мобильных приложений с использованием Flutter.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
