@@ -18,5 +18,7 @@ WaveAni — это пет-проект, созданный на чистом э�
 
 ---
 [![WaveAni Demo](https://img.youtube.com/vi/z4cFByrSySg/0.jpg)](https://youtube.com/shorts/z4cFByrSySg?si=WNpnYY7Nn_uCnOxs)
+<img src="https://img.youtube.com/vi/z4cFByrSySg/0.jpg" width="200"/>
 
-[![WaveAni Demo 2](https://github.com/XaviaFlutter/AnimeApp_flutter/blob/master/assets/screenshots/screenshot4.jpg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+[![WaveAni Demo 2](https://github.com/XaviaFlutter/AnimeApp_flutter/blob/master/assets/screenshots/screenshot3.jpg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+<img src="https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg" width="200"/>
